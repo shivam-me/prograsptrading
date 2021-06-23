@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Mon, 21 Jun 2021 08:51:33 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Jun 2021 15:37:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,26 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>New Post for Github Testing</title>
+		<link>./../new-post-for-github-testing/index.html</link>
+					<comments>./../new-post-for-github-testing/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 15:37:44 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../index.html?p=781</guid>
+
+					<description><![CDATA[Testing now]]></description>
+										<content:encoded><![CDATA[
+<p>Testing now</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../new-post-for-github-testing/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>How to Sleep on Bed</title>
 		<link>./../how-to-sleep-on-bed/index.html</link>
 					<comments>./../how-to-sleep-on-bed/index.html#respond</comments>
